@@ -1,16 +1,16 @@
 # template_4_shortActivity (Replace for Course Title)
 
-### Course Title
+### Reproducibility of Training Materials
 
 ### Contributors
 
 |  |  |
 |--|--|
-|[![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0000-0000-0000) Author Name | ![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0000-0000-0000) Author Name |
+|[![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0003-0558-7552) Michael Feichtinger | ![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0002-5490-4684) Emily J. Kate |
 
 ### About this course
 
-This course .... Add a general description
+This course about Reproducibility of Training Materials
 
 ### Material license
 
@@ -35,19 +35,11 @@ Morning 1
 
 ### Complement (Links for materials and Reading)
 
-- [Extra material for trainers](link)
-
-- [Presentations of this lesson](link)
-
-- [Data set for activities](link)
+- [Presentations of this lesson]((https://docs.google.com/presentation/d/19dRct69Wp3KwrC5Z6DpBEdoMM5Bp0uDj-hn80jiRuqE/edit?usp=sharing))
 
 ### Learning Outcomes
 
 Find out what you should be able to achieve after each session.
+- Learners are able to describe what is needed to make a training reproducible.
+- Learners know how to create reusable training materials. 
 
-- you should be able too ...... [Remember]
-- you should be able too ...... [Understand]
-- you should be able too ...... [Apply]
-- you should be able too ...... [Analyse]
-- you should be able too ...... [Evaluate]
-- you should be able too ...... [Create]
