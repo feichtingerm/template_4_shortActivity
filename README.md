@@ -6,7 +6,7 @@
 
 |  |  |
 |--|--|
-|[![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0003-0558-7552) Michael Feichtinger | ![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0002-5490-4684) Emily J. Kate |
+|[![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0003-0558-7552) Michael Feichtinger | [![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0002-5490-4684) Emily J. Kate |
 
 ### About this course
 
@@ -35,7 +35,7 @@ Morning 1
 
 ### Complement (Links for materials and Reading)
 
-- [Presentations of this lesson]((https://docs.google.com/presentation/d/19dRct69Wp3KwrC5Z6DpBEdoMM5Bp0uDj-hn80jiRuqE/edit?usp=sharing))
+- [Presentations of this lesson](https://docs.google.com/presentation/d/19dRct69Wp3KwrC5Z6DpBEdoMM5Bp0uDj-hn80jiRuqE/edit?usp=sharing)
 
 ### Learning Outcomes
 
